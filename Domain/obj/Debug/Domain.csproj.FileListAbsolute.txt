@@ -1,0 +1,30 @@
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Domain\bin\Debug\Domain.dll
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Domain\bin\Debug\Domain.pdb
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Domain\obj\Debug\Domain.dll
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Domain\obj\Debug\Domain.pdb
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Domain\bin\Debug\Domain.dll.config
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Domain\bin\Debug\EntityFramework.dll
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Domain\bin\Debug\EntityFramework.xml
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Cours 2sim\ArchitectureDotNet\MyFinance_codesource2\MyFinance_codesource\Domain\bin\Debug\Domain.dll.config
+D:\Cours 2sim\ArchitectureDotNet\MyFinance_codesource2\MyFinance_codesource\Domain\bin\Debug\Domain.dll
+D:\Cours 2sim\ArchitectureDotNet\MyFinance_codesource2\MyFinance_codesource\Domain\bin\Debug\Domain.pdb
+D:\Cours 2sim\ArchitectureDotNet\MyFinance_codesource2\MyFinance_codesource\Domain\bin\Debug\EntityFramework.dll
+D:\Cours 2sim\ArchitectureDotNet\MyFinance_codesource2\MyFinance_codesource\Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Cours 2sim\ArchitectureDotNet\MyFinance_codesource2\MyFinance_codesource\Domain\bin\Debug\EntityFramework.xml
+D:\Cours 2sim\ArchitectureDotNet\MyFinance_codesource2\MyFinance_codesource\Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Cours 2sim\ArchitectureDotNet\MyFinance_codesource2\MyFinance_codesource\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\Cours 2sim\ArchitectureDotNet\MyFinance_codesource2\MyFinance_codesource\Domain\obj\Debug\Domain.dll
+D:\Cours 2sim\ArchitectureDotNet\MyFinance_codesource2\MyFinance_codesource\Domain\obj\Debug\Domain.pdb
+C:\Users\Firas Chikhaoui\Desktop\.NET\MyFinance_codesource\Domain\bin\Debug\Domain.dll.config
+C:\Users\Firas Chikhaoui\Desktop\.NET\MyFinance_codesource\Domain\bin\Debug\Domain.dll
+C:\Users\Firas Chikhaoui\Desktop\.NET\MyFinance_codesource\Domain\bin\Debug\Domain.pdb
+C:\Users\Firas Chikhaoui\Desktop\.NET\MyFinance_codesource\Domain\bin\Debug\EntityFramework.dll
+C:\Users\Firas Chikhaoui\Desktop\.NET\MyFinance_codesource\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Firas Chikhaoui\Desktop\.NET\MyFinance_codesource\Domain\bin\Debug\EntityFramework.xml
+C:\Users\Firas Chikhaoui\Desktop\.NET\MyFinance_codesource\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Firas Chikhaoui\Desktop\.NET\MyFinance_codesource\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Firas Chikhaoui\Desktop\.NET\MyFinance_codesource\Domain\obj\Debug\Domain.dll
+C:\Users\Firas Chikhaoui\Desktop\.NET\MyFinance_codesource\Domain\obj\Debug\Domain.pdb

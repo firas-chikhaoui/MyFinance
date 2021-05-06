@@ -1,0 +1,51 @@
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Console\bin\Debug\Console.exe.config
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Console\bin\Debug\Console.exe
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Console\bin\Debug\Console.pdb
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Console\obj\Debug\Console.exe
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Console\obj\Debug\Console.pdb
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Console\bin\Debug\Domain.dll
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Console\bin\Debug\EntityFramework.dll
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Console\bin\Debug\Service.dll
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Console\bin\Debug\Domain.pdb
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Console\bin\Debug\Service.pdb
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Console\bin\Debug\EntityFramework.xml
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Console\bin\Debug\Data.dll
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Console\bin\Debug\Data.pdb
+C:\Users\tarek ayari\Desktop\Work\Search\TP-20190916T082002Z-001\TP\TP Traduit-20190918T104813Z-001\Correction_TP_Solution\step1\MyFinance_step1\Console\bin\Debug\Console.exe.config
+C:\Users\tarek ayari\Desktop\Work\Search\TP-20190916T082002Z-001\TP\TP Traduit-20190918T104813Z-001\Correction_TP_Solution\step1\MyFinance_step1\Console\obj\Debug\Console.exe
+C:\Users\tarek ayari\Desktop\Work\Search\TP-20190916T082002Z-001\TP\TP Traduit-20190918T104813Z-001\Correction_TP_Solution\step1\MyFinance_step1\Console\obj\Debug\Console.pdb
+D:\Cours 2sim\ArchitectureDotNet\MyFinance_codesource2\MyFinance_codesource\Console\bin\Debug\Console.exe.config
+D:\Cours 2sim\ArchitectureDotNet\MyFinance_codesource2\MyFinance_codesource\Console\obj\Debug\Console.exe
+D:\Cours 2sim\ArchitectureDotNet\MyFinance_codesource2\MyFinance_codesource\Console\obj\Debug\Console.pdb
+D:\Cours 2sim\ArchitectureDotNet\MyFinance_codesource2\MyFinance_codesource\Console\bin\Debug\Console.exe
+D:\Cours 2sim\ArchitectureDotNet\MyFinance_codesource2\MyFinance_codesource\Console\bin\Debug\Console.pdb
+D:\Cours 2sim\ArchitectureDotNet\MyFinance_codesource2\MyFinance_codesource\Console\bin\Debug\Data.dll
+D:\Cours 2sim\ArchitectureDotNet\MyFinance_codesource2\MyFinance_codesource\Console\bin\Debug\Domain.dll
+D:\Cours 2sim\ArchitectureDotNet\MyFinance_codesource2\MyFinance_codesource\Console\bin\Debug\EntityFramework.dll
+D:\Cours 2sim\ArchitectureDotNet\MyFinance_codesource2\MyFinance_codesource\Console\bin\Debug\EntityFramework.SqlServer.dll
+D:\Cours 2sim\ArchitectureDotNet\MyFinance_codesource2\MyFinance_codesource\Console\bin\Debug\Service.dll
+D:\Cours 2sim\ArchitectureDotNet\MyFinance_codesource2\MyFinance_codesource\Console\bin\Debug\Data.pdb
+D:\Cours 2sim\ArchitectureDotNet\MyFinance_codesource2\MyFinance_codesource\Console\bin\Debug\Domain.pdb
+D:\Cours 2sim\ArchitectureDotNet\MyFinance_codesource2\MyFinance_codesource\Console\bin\Debug\Service.pdb
+D:\Cours 2sim\ArchitectureDotNet\MyFinance_codesource2\MyFinance_codesource\Console\bin\Debug\EntityFramework.xml
+D:\Cours 2sim\ArchitectureDotNet\MyFinance_codesource2\MyFinance_codesource\Console\bin\Debug\EntityFramework.SqlServer.xml
+D:\Cours 2sim\ArchitectureDotNet\MyFinance_codesource2\MyFinance_codesource\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
+C:\Users\Firas Chikhaoui\Desktop\.NET\MyFinance_codesource\Console\bin\Debug\Console.exe.config
+C:\Users\Firas Chikhaoui\Desktop\.NET\MyFinance_codesource\Console\obj\Debug\Console.exe
+C:\Users\Firas Chikhaoui\Desktop\.NET\MyFinance_codesource\Console\obj\Debug\Console.pdb
+C:\Users\Firas Chikhaoui\Desktop\.NET\MyFinance_codesource\Console\bin\Debug\Console.exe
+C:\Users\Firas Chikhaoui\Desktop\.NET\MyFinance_codesource\Console\bin\Debug\Console.pdb
+C:\Users\Firas Chikhaoui\Desktop\.NET\MyFinance_codesource\Console\bin\Debug\Data.dll
+C:\Users\Firas Chikhaoui\Desktop\.NET\MyFinance_codesource\Console\bin\Debug\Domain.dll
+C:\Users\Firas Chikhaoui\Desktop\.NET\MyFinance_codesource\Console\bin\Debug\EntityFramework.dll
+C:\Users\Firas Chikhaoui\Desktop\.NET\MyFinance_codesource\Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Firas Chikhaoui\Desktop\.NET\MyFinance_codesource\Console\bin\Debug\Service.dll
+C:\Users\Firas Chikhaoui\Desktop\.NET\MyFinance_codesource\Console\bin\Debug\Data.pdb
+C:\Users\Firas Chikhaoui\Desktop\.NET\MyFinance_codesource\Console\bin\Debug\Domain.pdb
+C:\Users\Firas Chikhaoui\Desktop\.NET\MyFinance_codesource\Console\bin\Debug\Service.pdb
+C:\Users\Firas Chikhaoui\Desktop\.NET\MyFinance_codesource\Console\bin\Debug\EntityFramework.xml
+C:\Users\Firas Chikhaoui\Desktop\.NET\MyFinance_codesource\Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Firas Chikhaoui\Desktop\.NET\MyFinance_codesource\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
